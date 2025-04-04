@@ -50,10 +50,10 @@ v) Discount Category Analysis.
 vi) Total Orders & Key Metrics Overview.
 
 Dashboard
-1.png
-2.png
-3.png
-4.png
+![1](https://github.com/user-attachments/assets/317f18e6-e8ce-4762-ae73-84cd0493d2b4)
+![2](https://github.com/user-attachments/assets/c741a53c-47e1-4234-b805-fe6c9aaef1dd)
+![3](https://github.com/user-attachments/assets/bacc5602-b18d-4352-8f2e-358c9803c0cf)
+![4](https://github.com/user-attachments/assets/22b0237e-2a2f-4822-86d1-450e02086868)
 
 
 
